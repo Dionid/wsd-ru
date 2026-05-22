@@ -8,13 +8,13 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Widget Slice Design',
-  domain: 'widget-slice-design.davidshekunts.ru',
+  name: 'Widget Sliced Design',
+  domain: 'widget-sliced-design.davidshekunts.ru',
   author: '👨🏻 David Shekunts 👴🏿',
 
   // open graph metadata (optional)
   description:
-    'Widget Slice Design – подход для удобного и быстрого написания модульного масштабируемого фронтенда для приложений любого размера.',
+    'Widget Sliced Design – подход для удобного и быстрого написания модульного масштабируемого фронтенда для приложений любого размера.',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
